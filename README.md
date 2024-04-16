@@ -1,0 +1,2 @@
+# ProyHibernateHerencia
+# ProyHibernateHerencia
